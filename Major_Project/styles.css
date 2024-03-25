@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .jumbotron {
+    background-color: #f8f9fa;
+    text-align: center;
+  }
+  
+  .footer {
+    background-color: #343a40;
+    color: #00ff48;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .social-links a {
+    color: #dcfe00;
+    margin-right: 10px;
+  }
+  
